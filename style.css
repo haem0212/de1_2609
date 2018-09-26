@@ -8,3 +8,94 @@
 	height: 1800px;
 	background: gray;
 }
+.container .Content1{
+	width: 100%;
+	height: 400px;
+	background-image: url(http://chothuexedulichtphcm.com/upload/news/20180123222700602.jpg);	
+}
+.Content1 h1{
+	display: block;
+	text-align: center;
+	font-weight: bold;
+	color: white;
+	margin: 0;
+	padding: 100px 0 30px 0;
+}
+.Content1 p{
+	display: block;
+	text-align: center;
+	font-weight: bold;
+	color: white;
+	margin: 0;
+	padding: 0 0 20px 0;
+}
+.Content1 a{
+	display: block;
+	margin: 0 auto;
+	width: 200px;
+	height: 50px;
+	background: #d1673a;
+	color: white;
+	font-weight: bold;
+	font-size: 16px;
+	text-align: center;
+	line-height: 50px;
+	text-decoration: none;
+	border-radius: 10%;
+}
+.Content1 a:hover{
+	color: red;
+}
+.container .Content2{
+	width: 100%;
+	height: 400px;
+	background: white;
+}
+.Content2 .diff99{
+	float: left;
+	width: 4%;
+	height: 100%;
+}
+.Content2 .box99{
+	width: 20%;
+	height: auto;
+	float: left;
+}
+.box99 .pic99{
+	margin-top: 20px;
+	border-radius: 999px;
+	width: 100%;
+	height: 150px;
+}
+.pic99 img{
+	width: 100%;
+	height: 100%;
+	border-radius: 999px;
+	margin: 0 auto;
+}
+.box99 .title99{
+	width: 100%;
+	height: auto;
+}
+.title99 h3{
+	color: black;
+	text-align: center;
+	font-weight: bold;
+	margin: 0;
+	display: block;
+	padding: 10px 0 10px 0;
+}
+.title99 p{
+	display: block;
+	color: black;
+	text-align: center;
+	font-weight: bold;
+	margin: 0;
+}
+.title99 p a{
+	color: #3ad8c8;
+	text-decoration: none;
+}
+.title99 p a:hover{
+	color: red;
+}
