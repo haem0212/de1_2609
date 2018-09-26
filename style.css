@@ -8,3 +8,70 @@
 	height: 1800px;
 	background: gray;
 }
+.container .Contentn{
+	margin: 0 auto;
+	width: 84%;
+	height: 300px;
+	border-bottom: 1px solid white;
+	/* background: red; */
+}
+.container .Contentn .Twit {
+	float: left;
+	width: 24%;
+	height: 100%;
+}
+.container .Contentn .Twit .cont{
+	width: 100%;
+	height: 80px;
+/* 	background: green; */
+	border-bottom: 1px solid white;
+}
+.container .Contentn h3{
+	text-transform: uppercase;
+	color: #ed7710;
+	padding-top: 20px;
+	padding-bottom: 15px;
+}
+.container .Contentn .cont a{
+	text-decoration: none;
+}
+.container .Contentn .new{
+	float: left;
+	width: 24%;
+	height: 100%;
+	margin-left: 5px;
+}
+.container .Contentn .new .cont{
+	float: left;
+	width: 100%;
+	height: 80px;
+	/* background: green; */
+	border-bottom: 1px solid white;	
+	margin-bottom: 15px;
+}
+.container .Contentn .new p.i{
+	padding: 10px;
+	font-size: 15px;
+	color: blue;
+}
+.container .Contentn .new .email{
+	width: 98%;
+	height: 30px;
+	margin: 0 auto;
+	border-radius: 5px;
+	background: white;
+}
+.container .Contentn .new a{
+	display: block;
+	width: 60px;
+	height: 30px;
+	text-align: center;
+	line-height: 30px;
+	background: red;
+	text-decoration: none;
+	color: black;
+	margin-left: 65%;
+	margin-top: 10px;
+}
+
+
