@@ -8,3 +8,216 @@
 	height: 1800px;
 	background: gray;
 }
+.container .article1{
+	clear: both;
+	margin: 0 auto;
+	width:100%;
+	height:400px;
+	background: #DCDCDC;
+}
+.article1 .Titles1{
+	margin: 0 auto;
+	width: 84%;
+	height: 60px;
+	/*background: gray;*/
+}
+.article1 .Titles1 h2{
+	display: block;
+	float: left;
+	width: auto;
+	height: 50px;
+	/*background: red;*/
+	line-height: 60px;
+	font-size: 26px;
+	color: orange;
+	text-align: center;
+	text-transform: capitalize;
+}
+.article1 .Titles1 a{
+	display: block;
+	float: right;
+	margin-top: 10px;
+	width: 120px;
+	height: 40px;
+	background: blue;
+	line-height: 40px;
+	text-align: center;
+	text-transform: capitalize;
+	text-decoration: none;
+	font-size: 18px;
+	color: white;
+	border-radius: 8px;
+}
+.article1 .Titles1 a:hover{
+	color: red;
+	background: black;
+}
+.article1 .purport{
+	margin: 0 auto;
+	width: 84%;
+	height: 300px;
+/*	background: green;*/
+	margin-top: 30px;
+}
+.purport .pox1{
+	float: left;
+	width: 30%;
+	height: 100%;
+	/*background: violet;*/
+}
+.diffs1{
+	margin-right: 5%;
+	margin-left: 5%;
+}
+.pox1 .Pics{
+	width: 100%;
+	height: 180px;
+	background: white;
+}
+.pox1 .Pics a{
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+.pox1 .Pics a img{
+	width: 95%;
+	height: 90%;
+	padding-left: 2.5%;
+	padding-top: 4%;
+}
+.pox1 h3{
+	display: block;
+	width: 100%;
+	height: 40px;
+	/*background: blue;*/
+	text-transform: capitalize;
+	color: orange;
+	line-height: 40px;
+}
+.pox1 p{
+	display: block;
+	width: 100%;
+	height: auto;
+	/*background: red;*/
+	text-align: left;
+	line-height: 20px;
+	font-size: 16px;
+	color: #20B2AA;
+}
+.container .article2{
+	clear: both;
+	margin: 0 auto;
+	width: 100%;
+	height: 320px;
+	background:white;
+}
+.article2 .article2-top{
+	width: 100%;
+	height: 40%;
+	/*background: blue;*/
+}
+.article2-top h1{
+	display: block;
+	width: 300px;
+	height: 70px;
+	/*background: violet;*/
+	margin: 0 auto;
+	line-height: 70px;
+	color: blue;
+	text-transform: uppercase;
+	text-align: center;
+}
+.article2-top p{
+	display: block;
+	width: 60%;
+	height: auto;
+	/*background: yellow;*/
+	margin: 0 auto;
+	text-align: center;
+	line-height: 20px;
+	font-size: 18px;
+}
+.article2 .article2-bot{
+	color: both;
+	width: 100%;
+	height: 60%;
+	/*background: green;*/
+}
+.article2-bot .pox2{
+	float: left;
+	width: 20%;
+	height: 100%;
+	/*background: violet;*/
+	margin-left: 4%;
+}
+.pox2 h3{
+	display: block;
+	width: 100%;
+	height: 40px;
+	/*background: pink;*/
+	text-align: left;
+	color: blue;
+	text-transform:capitalize;
+	font-size: 20px;
+	line-height: 40px;
+}
+.pox2 p{
+	display: block;
+	width: 100%;
+	height: auto;
+	/*background: red;*/
+	text-align: left;
+	line-height: 20px;
+}
+.pox2 a{
+	display: block;
+	float: right;
+	width: 70px;
+	height: 30px;
+	background: blue;
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	line-height: 30px;
+	border-radius: 8px;
+	font-size: 18px;
+	margin-top: 10px;
+}
+.pox2 a:hover{
+	color: #00FF00;
+	background: #00FFFF;
+}
+.article2-bot .pox3{
+	float: left;
+	width: 20%;
+	height: 100%;
+/*	background: violet;*/
+	margin-left: 4%;
+}
+.pox3 h3{
+	display: block;
+	width: 100%;
+	height: 40px;
+	/*background: pink;*/
+	text-align: left;
+	color: blue;
+	text-transform:capitalize;
+	font-size: 20px;
+	line-height: 40px;
+}
+.pox3 p{
+	display: block;
+	width: 100%;
+	height: auto;
+	/*background: red;*/
+	text-align: left;
+	line-height: 20px;
+}
+.pox3 a{
+	text-decoration: none;
+	color: blue;
+	font-size: 18px;
+}
+.pox3 a:hover{
+	color: green;
+}
